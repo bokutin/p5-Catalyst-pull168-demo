@@ -22,7 +22,7 @@ sub default :Private {
 }
 
 #
-# Actually proxy to the LAN.
+# Actually proxy to my private LAN.
 #
 
 use Plack::App::Proxy;
